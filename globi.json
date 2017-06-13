@@ -1,4 +1,8 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "web-of-life"
+  "format": "web-of-life",
+  "citation": "Web of Life. http://web-of-life.es .",
+  "resources": {
+    "http://web-of-life.es": "http://web-of-life.es" 
+  }
 }
